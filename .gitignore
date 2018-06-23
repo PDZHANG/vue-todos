@@ -1,4 +1,4 @@
-# Compiled class file
+﻿# Compiled class file
 *.class
 
 # Log file
@@ -27,3 +27,6 @@ hs_err_pid*
 
 # iml文件
 *.iml
+
+# node_modules
+node_modules
